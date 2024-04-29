@@ -11,9 +11,9 @@
 	--heading-clr: #dadada;
 	--text-clr: #999999;
 }
-body{
+.body{
 	width: 100%;
-	height: 100vh;
+	height: 115vh;
 	display: flex;
 	justify-content: center;
 	align-items: center;
